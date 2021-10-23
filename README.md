@@ -7,6 +7,11 @@ This is a project to improve the TTSR method. We nonlinearly enhance the attenti
 
 ## 2.Method
 
+<div align=center>
+  
+<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/main.png" width="855" height="1054"> 
+  
+</div>
 
 
 ## 3.Preparation
