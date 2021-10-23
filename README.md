@@ -30,6 +30,14 @@ LR Image
   
 </div>
 
+We compare our method TTSRA with TTSR, and the experimental results show that our method performs better. Our method has higher recovery ability for image details.
+
+<div align=center>
+ 
+<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/c.png"  width="776" height="776"> 
+  
+</div>
+
 ## 2.Method
 
 <div align=center>
