@@ -5,21 +5,28 @@ An Improved Texture Transformer Network for Ref-based Image Super-Resolution.
 
 This is a project to improve the TTSR method. We nonlinearly enhance the attention mechanism. The official PyTorch implementation of the paper [Learning Texture Transformer Network for Image Super-Resolution](https://arxiv.org/abs/2006.04139) is in [here](https://github.com/researchmm/TTSR).
 
+
 <div align=center>
+
+LR Image
   
-<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/o.png" width="370" height="500"> 
+<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/o.png" width="180" height="250"> 
   
 </div>
 
 <div align=center>
+
+ SR Image 
   
-<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/result.png" width="370" height="500">
+<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/result.png" width="180" height="250"> 
   
 </div>
 
 <div align=center>
+ 
+ Ref Image 
   
-<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/ref.png"  width="370" height="500">
+<img src="https://github.com/Luciferbobo/TTSR_b2/blob/main/Img/ref.png"  width="180" height="250"> 
   
 </div>
 
